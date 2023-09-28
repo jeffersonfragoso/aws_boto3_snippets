@@ -1,1 +1,1 @@
-# aws_boto3_snippets
+# aws_snippets (boto3, cdk, pynamoDB)
